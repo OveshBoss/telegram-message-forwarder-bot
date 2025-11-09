@@ -4,11 +4,11 @@
 # sudo_users can be obtained from https://t.me/userinfobot
 
 [pyrogram]
-api_id = 12345                                                      # required
-api_hash = "0123456789abcdef0123456789abcdef"                       # required
-bot_token = "123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ"                  # either bot_token or session_string is required
-session_string = "1BVn1-ABCD1234efgh5678IJKLmnoPQRsTUVwxyZxxxxxxxx" # either bot_token or session_string is required
-sudo_users = [123456789, 123456789]                                 # optional
+api_id =  23903140                                                    # required
+api_hash = " 579f1bcf3eac1660d81ef34b09906012"                       # required
+bot_token = "8568135601:AAEkErD59mkXahX-HMpJRGEzgJIMHaWtThE"                  # either bot_token or session_string is required
+session_string = "1BVtsOKEBuz6czcGFeSWqgxnNtR1mgs9COyh34lqA5U4HVuyvmb2p3L9g-96sIgU7BR96o-cMVlYIJvkPBYoxDUg8I_lick9K2x98_HXgLBl5jKoth3GqrL16bt_HUnq5Qvt7ReZ4EeVFioEYklVNJSEZewlHIh9II7Ob6Js-rMrihhalSmPKM4Da6IAAX91kSaL72mUjj1sbeV85rb-OY_2HeNJY7H2_vQmI0VjWsoirpNNytQEDwrfONEFQbtqYXtwkkcvhePRb6ihxHkpFKx0NIKZbK_MTEE37KTsU9RMUI4pxQnuNRAxfXQpZIAaTOCdELByTfsMGzBacEQ44A3wLBrNjNX4=" # either bot_token or session_string is required
+sudo_users = [1416433622]                                 # optional
 
 
 # chat ids can be obtained from https://t.me/getidsbot
